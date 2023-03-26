@@ -4,9 +4,7 @@
     justify-content: center;
     /* Center the div horizontally */
     align-items: center;
-    /* Center the div vertically */
     height: 90vh;
-    /* Set the height of the parent container */
     margin: 0px auto;
     right: 20px;
 }
